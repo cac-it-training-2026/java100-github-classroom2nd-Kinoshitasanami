@@ -44,9 +44,13 @@ public class Explorer {
 
 		//ここにwhile文を記述する。
 
+		while (0 < nauticalMile) {
+
 			nauticalMile -= 22;
 			System.out.println("隊長：");
 			System.out.println((apsedTime += 1) + "時間たったよ\n");
+
+		}
 
 		//ここに  } を記述する。
 
